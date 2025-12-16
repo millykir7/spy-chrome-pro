@@ -1,6 +1,15 @@
 # 🕵️‍♂️ Spy Chrome Pro
 
 <div align="center">
+
+![Python Version](https://img.shields.io/badge/python-3.10%2B-blue?logo=python)
+![Platform](https://img.shields.io/badge/platform-macOS-lightgrey?logo=apple)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Status](https://img.shields.io/badge/status-stable-brightgreen)
+
+</div>
+
+<div align="center">
   <img src="img/app_icon.png" alt="Spy Chrome Pro Icon" width="128">
   <br>
   <b>Твой невидимый второй пилот для технических собеседований и Live-coding сессий.</b>
